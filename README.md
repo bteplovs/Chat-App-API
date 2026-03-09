@@ -1,9 +1,8 @@
-#CHAT APP API
+# CHAT APP API
 
 Developed as part of a web computing arch. exercise
 
-##set-up
-
+## set-up
 Upon cloning run to install the node modules:
 ```bash
 npm install
@@ -13,5 +12,5 @@ then to run the server:
 npm run start
 ```
 
-##acknowledgements
+## acknowledgements
 SENG365 teaching team
