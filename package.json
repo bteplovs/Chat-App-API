@@ -1,0 +1,29 @@
+{
+	"name": "lab_2_combined",
+	"version": "1.0.0",
+	"description": "Combined persistence, architecture, and typescript labs for 2022",
+	"main": "dist/app.js",
+	"scripts": {
+		"lint": "eslint \"src/**/*.ts\"",
+		"lint:fix": "eslint \"src/**/*.ts\" --fix",
+		"build": "tsc",
+		"prestart": "npm run build",
+		"start": "node .",
+		"test": "echo \"Error: no test specified\" && exit 1" 
+	},
+	"author": "Morgan English",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^17.2.3",
+		"express": "5.2.1",
+		"mysql2": "^3.16.1",
+		"winston": "^3.19.0",
+		"ajv": "^8.17.1"
+	},
+	"devDependencies": {
+		"@types/express": "^5.0.6",
+		"@types/node": "^25.0.9",
+		"eslint": "^9.39.2",
+		"typescript": "^5.9.3"
+	}
+}
