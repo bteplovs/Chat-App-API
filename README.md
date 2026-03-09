@@ -3,14 +3,17 @@
 Developed as part of a web computing arch. exercise
 
 ## set-up
-Upon cloning run to install the node modules:
+Upon cloning run: 
 ```bash
 npm install
 ```
+This will install the node modules:
+
 then to run the server: 
 ```bash
 npm run start
 ```
+You can then interact with the server endpoints
 
 ## acknowledgements
 SENG365 teaching team
