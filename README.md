@@ -2,7 +2,7 @@
 
 Developed as part of a web computing arch. exercise
 
-## set-up
+## Set-up
 Upon cloning run: 
 ```bash
 npm install
@@ -15,5 +15,5 @@ npm run start
 ```
 You can then interact with the server endpoints
 
-## acknowledgements
+## Acknowledgements
 SENG365 teaching team
