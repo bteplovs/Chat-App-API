@@ -7,7 +7,7 @@ Upon cloning run:
 ```bash
 npm install
 ```
-This will install the node modules:
+This will install the node modules.
 
 then to run the server: 
 ```bash
